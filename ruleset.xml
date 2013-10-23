@@ -27,4 +27,6 @@
     <rule ref="PEAR.ControlStructures.ControlSignature"/>
     <rule ref="Squiz.WhiteSpace.LogicalOperatorSpacing"/>
     <rule ref="Squiz.Commenting.DocCommentAlignment"/>
+    <rule ref="Squiz.Commenting.FunctionComment"/>
+    <rule ref="Squiz.Commenting.ClassComment"/>
 </ruleset>
